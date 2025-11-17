@@ -1,7 +1,7 @@
-Fast and effective port scanning utility \n
+Fast and effective port scanning utility 
 -------------------------------------------
 
-how to use it \n
+how to use it 
 
 ./zScan ip maxPort
 where: 
